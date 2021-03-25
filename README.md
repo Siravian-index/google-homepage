@@ -1,0 +1,1 @@
+Starting with the odin project's "google-homepage" practice
